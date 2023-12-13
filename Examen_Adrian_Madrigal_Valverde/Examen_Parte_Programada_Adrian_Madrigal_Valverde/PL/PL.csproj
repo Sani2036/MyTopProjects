@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AEF83DD3-981F-46CF-8F1A-4A9481901EF3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PL</RootNamespace>
+    <AssemblyName>Exam_Final_1er_C_2018</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="PANTALLAS\CAT_MANT\EDITAR\Frm_Editar_Estados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PANTALLAS\CAT_MANT\EDITAR\Frm_Editar_Estados.Designer.cs">
+      <DependentUpon>Frm_Editar_Estados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PANTALLAS\CAT_MANT\EDITAR\Frm_Editar_Marcas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PANTALLAS\CAT_MANT\EDITAR\Frm_Editar_Marcas.Designer.cs">
+      <DependentUpon>Frm_Editar_Marcas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PANTALLAS\CAT_MANT\LISTAR\Frm_Listar_Estados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PANTALLAS\CAT_MANT\LISTAR\Frm_Listar_Estados.Designer.cs">
+      <DependentUpon>Frm_Listar_Estados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PANTALLAS\CAT_MANT\LISTAR\Frm_Listar_Marcas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PANTALLAS\CAT_MANT\LISTAR\Frm_Listar_Marcas.Designer.cs">
+      <DependentUpon>Frm_Listar_Marcas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PANTALLAS\GENERALES\Frm_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PANTALLAS\GENERALES\Frm_Principal.Designer.cs">
+      <DependentUpon>Frm_Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="PANTALLAS\CAT_MANT\EDITAR\Frm_Editar_Estados.resx">
+      <DependentUpon>Frm_Editar_Estados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PANTALLAS\CAT_MANT\EDITAR\Frm_Editar_Marcas.resx">
+      <DependentUpon>Frm_Editar_Marcas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PANTALLAS\CAT_MANT\LISTAR\Frm_Listar_Estados.resx">
+      <DependentUpon>Frm_Listar_Estados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PANTALLAS\CAT_MANT\LISTAR\Frm_Listar_Marcas.resx">
+      <DependentUpon>Frm_Listar_Marcas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PANTALLAS\GENERALES\Frm_Principal.resx">
+      <DependentUpon>Frm_Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{a617f420-78b5-4f12-b14f-bb775dcce16e}</Project>
+      <Name>BLL %28BLL\BLL%29</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{417af992-fc59-4e48-b37a-0b23fc17141c}</Project>
+      <Name>DAL %28DAL\DAL%29</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="RECURSOS\ICONOS\Actions-document-edit-icon_32.png" />
+    <Content Include="RECURSOS\ICONOS\Actions-document-edit-icon_48.png" />
+    <Content Include="RECURSOS\ICONOS\Artdesigner-Urban-Stories-House.ico" />
+    <Content Include="RECURSOS\ICONOS\blank-catalog-icon_32.png" />
+    <Content Include="RECURSOS\ICONOS\blank-catalog-icon_48.png" />
+    <Content Include="RECURSOS\ICONOS\Catalog-icon_32.png" />
+    <Content Include="RECURSOS\ICONOS\Catalog-icon_48.png" />
+    <Content Include="RECURSOS\ICONOS\catalogs-icon_32.png" />
+    <Content Include="RECURSOS\ICONOS\catalogs-icon_48.png" />
+    <Content Include="RECURSOS\ICONOS\Dakirby309-Simply-Styled-Microsoft-Office-2010.ico" />
+    <Content Include="RECURSOS\ICONOS\Dakirby309-Windows-8-Metro-Folders-OS-Windows-8-Metro.ico" />
+    <Content Include="RECURSOS\ICONOS\delete-file-icon_32.png" />
+    <Content Include="RECURSOS\ICONOS\delete-file-icon_48.png" />
+    <Content Include="RECURSOS\ICONOS\edit-file-icon_32.png" />
+    <Content Include="RECURSOS\ICONOS\edit-file-icon_48.png" />
+    <Content Include="RECURSOS\ICONOS\Itzikgur-My-Seven-Backup-Seagate.ico" />
+    <Content Include="RECURSOS\ICONOS\Log-Out-icon_32.png" />
+    <Content Include="RECURSOS\ICONOS\Log-Out-icon_48.png" />
+    <Content Include="RECURSOS\ICONOS\Logout-icon_32.png" />
+    <Content Include="RECURSOS\ICONOS\Logout-icon_48.png" />
+    <Content Include="RECURSOS\ICONOS\new-file-icon_32.png" />
+    <Content Include="RECURSOS\ICONOS\new-file-icon_48.png" />
+    <Content Include="RECURSOS\ICONOS\Save-icon_32.png" />
+    <Content Include="RECURSOS\ICONOS\Save-icon_48.png" />
+    <Content Include="RECURSOS\ICONOS\search-b-icon_32.png" />
+    <Content Include="RECURSOS\ICONOS\search-b-icon_48.png" />
+    <Content Include="RECURSOS\ICONOS\search-icon_32.png" />
+    <Content Include="RECURSOS\ICONOS\search-icon_48.png" />
+    <Content Include="RECURSOS\ICONOS\Tatice-Operating-Systems-Windows.ico" />
+    <Content Include="RECURSOS\ICONOS\Window-Refresh-icon_32.png" />
+    <Content Include="RECURSOS\ICONOS\Window-Refresh-icon_48.png" />
+    <Content Include="RECURSOS\IMAGENES\513092_558d_2.jpg" />
+    <Content Include="RECURSOS\IMAGENES\Button-Refresh-icon.png" />
+    <Content Include="RECURSOS\IMAGENES\cplusplus.jpg" />
+    <Content Include="RECURSOS\IMAGENES\delete-file-icon.png" />
+    <Content Include="RECURSOS\IMAGENES\edit-file-icon.png" />
+    <Content Include="RECURSOS\IMAGENES\Logout-icon.png" />
+    <Content Include="RECURSOS\IMAGENES\maxresdefault.jpg" />
+    <Content Include="RECURSOS\IMAGENES\new-file-icon.png" />
+    <Content Include="RECURSOS\IMAGENES\Search-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,39 @@
+C:\Exam_Final_3er_C_2017\BLL\bin\Debug\BLL.dll
+C:\Exam_Final_3er_C_2017\BLL\bin\Debug\BLL.pdb
+C:\Exam_Final_3er_C_2017\BLL\bin\Debug\DAL.dll
+C:\Exam_Final_3er_C_2017\BLL\bin\Debug\DAL.pdb
+C:\Exam_Final_3er_C_2017\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Exam_Final_3er_C_2017\BLL\obj\Debug\BLL.dll
+C:\Exam_Final_3er_C_2017\BLL\obj\Debug\BLL.pdb
+C:\Users\nnunez\Desktop\Exam_Final_1er_C_2018\BLL\bin\Debug\BLL.dll
+C:\Users\nnunez\Desktop\Exam_Final_1er_C_2018\BLL\bin\Debug\BLL.pdb
+C:\Users\nnunez\Desktop\Exam_Final_1er_C_2018\BLL\bin\Debug\DAL.dll
+C:\Users\nnunez\Desktop\Exam_Final_1er_C_2018\BLL\bin\Debug\DAL.pdb
+C:\Users\nnunez\Desktop\Exam_Final_1er_C_2018\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\nnunez\Desktop\Exam_Final_1er_C_2018\BLL\obj\Debug\BLL.dll
+C:\Users\nnunez\Desktop\Exam_Final_1er_C_2018\BLL\obj\Debug\BLL.pdb
+C:\Users\nnunez\Desktop\Exan_Final_ISI_BSI_09\BLL\bin\Debug\BLL.dll
+C:\Users\nnunez\Desktop\Exan_Final_ISI_BSI_09\BLL\bin\Debug\BLL.pdb
+C:\Users\nnunez\Desktop\Exan_Final_ISI_BSI_09\BLL\bin\Debug\DAL.dll
+C:\Users\nnunez\Desktop\Exan_Final_ISI_BSI_09\BLL\bin\Debug\DAL.pdb
+C:\Users\nnunez\Desktop\Exan_Final_ISI_BSI_09\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\nnunez\Desktop\Exan_Final_ISI_BSI_09\BLL\obj\Debug\BLL.dll
+C:\Users\nnunez\Desktop\Exan_Final_ISI_BSI_09\BLL\obj\Debug\BLL.pdb
+C:\Users\nicol\OneDrive\Escritorio\Exam Final P3_Lunes_y_Miércoles\Exan_Final_ISI_BSI_09\BLL\bin\Debug\BLL.dll
+C:\Users\nicol\OneDrive\Escritorio\Exam Final P3_Lunes_y_Miércoles\Exan_Final_ISI_BSI_09\BLL\bin\Debug\BLL.pdb
+C:\Users\nicol\OneDrive\Escritorio\Exam Final P3_Lunes_y_Miércoles\Exan_Final_ISI_BSI_09\BLL\bin\Debug\DAL.dll
+C:\Users\nicol\OneDrive\Escritorio\Exam Final P3_Lunes_y_Miércoles\Exan_Final_ISI_BSI_09\BLL\bin\Debug\DAL.pdb
+C:\Users\nicol\OneDrive\Escritorio\Exam Final P3_Lunes_y_Miércoles\Exan_Final_ISI_BSI_09\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Escritorio\Exam Final P3_Lunes_y_Miércoles\Exan_Final_ISI_BSI_09\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Exam Final P3_Lunes_y_Miércoles\Exan_Final_ISI_BSI_09\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\nicol\OneDrive\Escritorio\Exam Final P3_Lunes_y_Miércoles\Exan_Final_ISI_BSI_09\BLL\obj\Debug\BLL.dll
+C:\Users\nicol\OneDrive\Escritorio\Exam Final P3_Lunes_y_Miércoles\Exan_Final_ISI_BSI_09\BLL\obj\Debug\BLL.pdb
+C:\Users\Usuario\source\repos\Exan_Final_ISI_BSI_09\BLL\bin\Debug\BLL.dll
+C:\Users\Usuario\source\repos\Exan_Final_ISI_BSI_09\BLL\bin\Debug\BLL.pdb
+C:\Users\Usuario\source\repos\Exan_Final_ISI_BSI_09\BLL\bin\Debug\DAL.dll
+C:\Users\Usuario\source\repos\Exan_Final_ISI_BSI_09\BLL\bin\Debug\DAL.pdb
+C:\Users\Usuario\source\repos\Exan_Final_ISI_BSI_09\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Exan_Final_ISI_BSI_09\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Exan_Final_ISI_BSI_09\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Exan_Final_ISI_BSI_09\BLL\obj\Debug\BLL.dll
+C:\Users\Usuario\source\repos\Exan_Final_ISI_BSI_09\BLL\obj\Debug\BLL.pdb

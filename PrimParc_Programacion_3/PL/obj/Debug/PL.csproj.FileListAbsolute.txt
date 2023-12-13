@@ -1,0 +1,58 @@
+C:\Users\nnunez\Desktop\PrimParc_Programacion_3\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\Users\nnunez\Desktop\PrimParc_Programacion_3\PL\obj\Debug\PL.Pantallas.frm_Ejercicios.resources
+C:\Users\nnunez\Desktop\PrimParc_Programacion_3\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\nnunez\Desktop\PrimParc_Programacion_3\PL\obj\Debug\PL.csproj.GenerateResource.Cache
+C:\Users\nnunez\Desktop\PrimParc_Programacion_3\PL\bin\Debug\PL.exe.config
+C:\Users\nnunez\Desktop\PrimParc_Programacion_3\PL\bin\Debug\PL.exe
+C:\Users\nnunez\Desktop\PrimParc_Programacion_3\PL\bin\Debug\PL.pdb
+C:\Users\nnunez\Desktop\PrimParc_Programacion_3\PL\bin\Debug\BLL.dll
+C:\Users\nnunez\Desktop\PrimParc_Programacion_3\PL\bin\Debug\DAL.dll
+C:\Users\nnunez\Desktop\PrimParc_Programacion_3\PL\bin\Debug\BLL.pdb
+C:\Users\nnunez\Desktop\PrimParc_Programacion_3\PL\bin\Debug\DAL.pdb
+C:\Users\nnunez\Desktop\PrimParc_Programacion_3\PL\obj\Debug\PL.exe
+C:\Users\nnunez\Desktop\PrimParc_Programacion_3\PL\obj\Debug\PL.pdb
+E:\nIcO\Trabajo\UAM\2018_III_C\01 - ISI-BSI-09 - Programación III\Exámenes\1er Parcial\PrimParc_Programacion_3\PL\obj\Debug\PL.csprojAssemblyReference.cache
+E:\nIcO\Trabajo\UAM\2018_III_C\01 - ISI-BSI-09 - Programación III\Exámenes\1er Parcial\PrimParc_Programacion_3\PL\obj\Debug\PL.Pantallas.frm_Ejercicios.resources
+E:\nIcO\Trabajo\UAM\2018_III_C\01 - ISI-BSI-09 - Programación III\Exámenes\1er Parcial\PrimParc_Programacion_3\PL\obj\Debug\PL.Properties.Resources.resources
+E:\nIcO\Trabajo\UAM\2018_III_C\01 - ISI-BSI-09 - Programación III\Exámenes\1er Parcial\PrimParc_Programacion_3\PL\obj\Debug\PL.csproj.GenerateResource.cache
+E:\nIcO\Trabajo\UAM\2018_III_C\01 - ISI-BSI-09 - Programación III\Exámenes\1er Parcial\PrimParc_Programacion_3\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+E:\nIcO\Trabajo\UAM\2018_III_C\01 - ISI-BSI-09 - Programación III\Exámenes\1er Parcial\PrimParc_Programacion_3\PL\obj\Debug\PL.exe
+E:\nIcO\Trabajo\UAM\2018_III_C\01 - ISI-BSI-09 - Programación III\Exámenes\1er Parcial\PrimParc_Programacion_3\PL\obj\Debug\PL.pdb
+E:\nIcO\Trabajo\UAM\2018_III_C\01 - ISI-BSI-09 - Programación III\Exámenes\1er Parcial\PrimParc_Programacion_3\PL\bin\Debug\PL.exe.config
+E:\nIcO\Trabajo\UAM\2018_III_C\01 - ISI-BSI-09 - Programación III\Exámenes\1er Parcial\PrimParc_Programacion_3\PL\bin\Debug\PL.exe
+E:\nIcO\Trabajo\UAM\2018_III_C\01 - ISI-BSI-09 - Programación III\Exámenes\1er Parcial\PrimParc_Programacion_3\PL\bin\Debug\PL.pdb
+E:\nIcO\Trabajo\UAM\2018_III_C\01 - ISI-BSI-09 - Programación III\Exámenes\1er Parcial\PrimParc_Programacion_3\PL\bin\Debug\BLL.dll
+E:\nIcO\Trabajo\UAM\2018_III_C\01 - ISI-BSI-09 - Programación III\Exámenes\1er Parcial\PrimParc_Programacion_3\PL\bin\Debug\DAL.dll
+E:\nIcO\Trabajo\UAM\2018_III_C\01 - ISI-BSI-09 - Programación III\Exámenes\1er Parcial\PrimParc_Programacion_3\PL\bin\Debug\BLL.pdb
+E:\nIcO\Trabajo\UAM\2018_III_C\01 - ISI-BSI-09 - Programación III\Exámenes\1er Parcial\PrimParc_Programacion_3\PL\bin\Debug\DAL.pdb
+E:\nIcO\Trabajo\UAM\2018_III_C\01 - ISI-BSI-09 - Programación III\Exámenes\1er Parcial\PrimParc_Programacion_3\PL\obj\Debug\PL.csproj.CopyComplete
+C:\nIcO\Trabajo\UAM\2022_I_C\01 - ISI-BSI-09-Programación III - LM_N\Exámenes\1er Examen\PrimParc_Programacion_3\PL\bin\Debug\PL.exe.config
+C:\nIcO\Trabajo\UAM\2022_I_C\01 - ISI-BSI-09-Programación III - LM_N\Exámenes\1er Examen\PrimParc_Programacion_3\PL\bin\Debug\PL.exe
+C:\nIcO\Trabajo\UAM\2022_I_C\01 - ISI-BSI-09-Programación III - LM_N\Exámenes\1er Examen\PrimParc_Programacion_3\PL\bin\Debug\PL.pdb
+C:\nIcO\Trabajo\UAM\2022_I_C\01 - ISI-BSI-09-Programación III - LM_N\Exámenes\1er Examen\PrimParc_Programacion_3\PL\bin\Debug\BLL.dll
+C:\nIcO\Trabajo\UAM\2022_I_C\01 - ISI-BSI-09-Programación III - LM_N\Exámenes\1er Examen\PrimParc_Programacion_3\PL\bin\Debug\DAL.dll
+C:\nIcO\Trabajo\UAM\2022_I_C\01 - ISI-BSI-09-Programación III - LM_N\Exámenes\1er Examen\PrimParc_Programacion_3\PL\bin\Debug\BLL.pdb
+C:\nIcO\Trabajo\UAM\2022_I_C\01 - ISI-BSI-09-Programación III - LM_N\Exámenes\1er Examen\PrimParc_Programacion_3\PL\bin\Debug\DAL.pdb
+C:\nIcO\Trabajo\UAM\2022_I_C\01 - ISI-BSI-09-Programación III - LM_N\Exámenes\1er Examen\PrimParc_Programacion_3\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\nIcO\Trabajo\UAM\2022_I_C\01 - ISI-BSI-09-Programación III - LM_N\Exámenes\1er Examen\PrimParc_Programacion_3\PL\obj\Debug\PL.Pantallas.frm_Ejercicios.resources
+C:\nIcO\Trabajo\UAM\2022_I_C\01 - ISI-BSI-09-Programación III - LM_N\Exámenes\1er Examen\PrimParc_Programacion_3\PL\obj\Debug\PL.Properties.Resources.resources
+C:\nIcO\Trabajo\UAM\2022_I_C\01 - ISI-BSI-09-Programación III - LM_N\Exámenes\1er Examen\PrimParc_Programacion_3\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\nIcO\Trabajo\UAM\2022_I_C\01 - ISI-BSI-09-Programación III - LM_N\Exámenes\1er Examen\PrimParc_Programacion_3\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\nIcO\Trabajo\UAM\2022_I_C\01 - ISI-BSI-09-Programación III - LM_N\Exámenes\1er Examen\PrimParc_Programacion_3\PL\obj\Debug\PL.csproj.CopyComplete
+C:\nIcO\Trabajo\UAM\2022_I_C\01 - ISI-BSI-09-Programación III - LM_N\Exámenes\1er Examen\PrimParc_Programacion_3\PL\obj\Debug\PL.exe
+C:\nIcO\Trabajo\UAM\2022_I_C\01 - ISI-BSI-09-Programación III - LM_N\Exámenes\1er Examen\PrimParc_Programacion_3\PL\obj\Debug\PL.pdb
+C:\Users\Usuario\source\repos\PrimParc_Programacion_3\PL\bin\Debug\PL.exe.config
+C:\Users\Usuario\source\repos\PrimParc_Programacion_3\PL\bin\Debug\PL.exe
+C:\Users\Usuario\source\repos\PrimParc_Programacion_3\PL\bin\Debug\PL.pdb
+C:\Users\Usuario\source\repos\PrimParc_Programacion_3\PL\bin\Debug\BLL.dll
+C:\Users\Usuario\source\repos\PrimParc_Programacion_3\PL\bin\Debug\DAL.dll
+C:\Users\Usuario\source\repos\PrimParc_Programacion_3\PL\bin\Debug\BLL.pdb
+C:\Users\Usuario\source\repos\PrimParc_Programacion_3\PL\bin\Debug\DAL.pdb
+C:\Users\Usuario\source\repos\PrimParc_Programacion_3\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\PrimParc_Programacion_3\PL\obj\Debug\PL.Pantallas.frm_Ejercicios.resources
+C:\Users\Usuario\source\repos\PrimParc_Programacion_3\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\Usuario\source\repos\PrimParc_Programacion_3\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\PrimParc_Programacion_3\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PrimParc_Programacion_3\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\Usuario\source\repos\PrimParc_Programacion_3\PL\obj\Debug\PL.exe
+C:\Users\Usuario\source\repos\PrimParc_Programacion_3\PL\obj\Debug\PL.pdb

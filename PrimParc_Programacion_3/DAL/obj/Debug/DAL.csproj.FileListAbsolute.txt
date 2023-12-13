@@ -1,0 +1,23 @@
+C:\Users\nnunez\Desktop\PrimParc_Programacion_3\DAL\bin\Debug\DAL.dll
+C:\Users\nnunez\Desktop\PrimParc_Programacion_3\DAL\bin\Debug\DAL.pdb
+C:\Users\nnunez\Desktop\PrimParc_Programacion_3\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\nnunez\Desktop\PrimParc_Programacion_3\DAL\obj\Debug\DAL.dll
+C:\Users\nnunez\Desktop\PrimParc_Programacion_3\DAL\obj\Debug\DAL.pdb
+E:\nIcO\Trabajo\UAM\2018_III_C\01 - ISI-BSI-09 - Programación III\Exámenes\1er Parcial\PrimParc_Programacion_3\DAL\bin\Debug\DAL.dll
+E:\nIcO\Trabajo\UAM\2018_III_C\01 - ISI-BSI-09 - Programación III\Exámenes\1er Parcial\PrimParc_Programacion_3\DAL\bin\Debug\DAL.pdb
+E:\nIcO\Trabajo\UAM\2018_III_C\01 - ISI-BSI-09 - Programación III\Exámenes\1er Parcial\PrimParc_Programacion_3\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\nIcO\Trabajo\UAM\2018_III_C\01 - ISI-BSI-09 - Programación III\Exámenes\1er Parcial\PrimParc_Programacion_3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\nIcO\Trabajo\UAM\2018_III_C\01 - ISI-BSI-09 - Programación III\Exámenes\1er Parcial\PrimParc_Programacion_3\DAL\obj\Debug\DAL.dll
+E:\nIcO\Trabajo\UAM\2018_III_C\01 - ISI-BSI-09 - Programación III\Exámenes\1er Parcial\PrimParc_Programacion_3\DAL\obj\Debug\DAL.pdb
+C:\nIcO\Trabajo\UAM\2022_I_C\01 - ISI-BSI-09-Programación III - LM_N\Exámenes\1er Examen\PrimParc_Programacion_3\DAL\bin\Debug\DAL.dll
+C:\nIcO\Trabajo\UAM\2022_I_C\01 - ISI-BSI-09-Programación III - LM_N\Exámenes\1er Examen\PrimParc_Programacion_3\DAL\bin\Debug\DAL.pdb
+C:\nIcO\Trabajo\UAM\2022_I_C\01 - ISI-BSI-09-Programación III - LM_N\Exámenes\1er Examen\PrimParc_Programacion_3\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\nIcO\Trabajo\UAM\2022_I_C\01 - ISI-BSI-09-Programación III - LM_N\Exámenes\1er Examen\PrimParc_Programacion_3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\nIcO\Trabajo\UAM\2022_I_C\01 - ISI-BSI-09-Programación III - LM_N\Exámenes\1er Examen\PrimParc_Programacion_3\DAL\obj\Debug\DAL.dll
+C:\nIcO\Trabajo\UAM\2022_I_C\01 - ISI-BSI-09-Programación III - LM_N\Exámenes\1er Examen\PrimParc_Programacion_3\DAL\obj\Debug\DAL.pdb
+C:\Users\Usuario\source\repos\PrimParc_Programacion_3\DAL\bin\Debug\DAL.dll
+C:\Users\Usuario\source\repos\PrimParc_Programacion_3\DAL\bin\Debug\DAL.pdb
+C:\Users\Usuario\source\repos\PrimParc_Programacion_3\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\PrimParc_Programacion_3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PrimParc_Programacion_3\DAL\obj\Debug\DAL.dll
+C:\Users\Usuario\source\repos\PrimParc_Programacion_3\DAL\obj\Debug\DAL.pdb
