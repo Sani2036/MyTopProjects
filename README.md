@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adrian, my full Name is: Adrian Madrigal Valverde
 - 👀 I’m interested in one day learning more about programming in general
 - 🌱 I’m currently studying 'Information Systems Engineering' and wishing to learn how to basically Code better
-- 📫 How to reach me ... You can check my bio for my LinkedIn and DM me
-- In the case of this repository, it mas made to upload my best projects and keep a record of them while im learning more stuff in my career.
+- 📫 How to reach me ... You can check my bio for my LinkedIn and DM me if u want since im not exactly an expert using GitHub
+- In the case of this repository, it mas made to upload my best projects and keep a record of them while im learning more stuff in my career
