@@ -7,3 +7,8 @@
 - EN: It mas made to upload my best projects and keep a record of them while im learning more stuff in my career
 - ES: Fecha, 12/2023: "Examen_Adrian_Madrigal_Valverde", mi examen final de Progra III / "PrimParc_Programacion_3", mi primer examen de Progra III / "BD_Examen_ADRIAN_MADRIGAL_VALVERDE.sql", mi primer examen de Base de Datos I
 - Hasta la fecha no se me han encargado proyectos de tema libre e individuales.
+
+- Videos explicativos:
+- "PrimParc_Programacion_3": https://youtu.be/4sh9yM0wocI
+- "Examen_Adrian_Madrigal_Valverde": https://youtu.be/nwAZQG54gq8
+- "BD_Examen_ADRIAN_MADRIGAL_VALVERDE.sql": https://youtu.be/dOJiARXGFL8
