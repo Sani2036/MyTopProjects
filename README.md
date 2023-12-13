@@ -2,4 +2,8 @@
 - 👀 I’m interested in one day learning more about programming in general
 - 🌱 I’m currently studying 'Information Systems Engineering' and wishing to learn how to basically Code better
 - 📫 How to reach me ... You can check my bio for my LinkedIn and DM me if u want since im not exactly an expert using GitHub
-- In the case of this repository, it mas made to upload my best projects and keep a record of them while im learning more stuff in my career
+- In the case of this repository:
+- ES: Creado para subir mis mejores proyectos y tener un record de donde puedo checarlos para recordarlos mientras voy mejorando y aprendiendo en la carrera.
+- EN: It mas made to upload my best projects and keep a record of them while im learning more stuff in my career
+- ES: Fecha, 12/2023: "Examen_Adrian_Madrigal_Valverde", mi examen final de Progra III / "PrimParc_Programacion_3", mi primer examen de Progra III / "BD_Examen_ADRIAN_MADRIGAL_VALVERDE.sql", mi primer examen de Base de Datos I
+- Hasta la fecha no se me han encargado proyectos de tema libre e individuales.
